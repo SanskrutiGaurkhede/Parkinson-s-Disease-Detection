@@ -1,1 +1,2 @@
 # Parkinson-s-Disease-Detection
+Parkinson's disease (PD) is a progressive nervous system disorder that affects movement. Early detection of Parkinson's disease can significantly improve patient outcomes by enabling timely intervention and treatment. In this project, we aim to develop a Parkinson's disease detection algorithm using machine learning techniques. We will utilize a dataset containing various biomedical features extracted from voice recordings of individuals with and without Parkinson's disease.
